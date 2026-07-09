@@ -13,7 +13,7 @@
 </p>
 
 ---
-
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/qianzhu18)](https://ghfind.com/u/qianzhu18?ref=badge)
 ## 🧠 About
 
 ```yaml
@@ -27,4 +27,5 @@ focus:
   - Open Collaboration
   - AI × Web3
 status: building / learning / exploring
-[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/qianzhu18)](https://ghfind.com/u/qianzhu18?ref=badge)
+
+
