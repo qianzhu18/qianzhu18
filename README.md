@@ -13,7 +13,7 @@
 </p>
 
 ---
-[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/qianzhu18)](https://ghfind.com/u/qianzhu18?ref=badge)
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/qianzhu18?lang=zh)](https://ghfind.com/u/qianzhu18?ref=badge)
 [![GitHub Roast](https://ghfind.com/api/card/qianzhu18?theme=dark)](https://ghfind.com/u/qianzhu18?ref=badge)
 ## 🧠 About
 
