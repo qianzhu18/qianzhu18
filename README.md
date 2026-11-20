@@ -1,39 +1,39 @@
 <h1 align="center">qianzhu / Lucien 👋</h1>
 
 <p align="center">
-  AI Product Builder · Agentic Engineering Coder · Community Founder
+  AI Product Builder · Community Founder · Agent Memory Research
 </p>
 
 <p align="center">
-  构建 AI 产品与 Agent 工作流，也通过社区连接开发者、用户与想法。
+  Exploring AI agents and GEO, building products, and bringing people together in Changsha.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Product-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic%20Engineering-0f172a?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rapid%20Building-1e293b?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent%20Memory-0f172a?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GEO-1e293b?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Community%20Founder-334155?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20×%20Web3-111827?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mac%20%26%20Productivity-111827?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
 [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/qianzhu18?lang=zh)](https://ghfind.com/u/qianzhu18?ref=badge)
 
-
 ## About
 
-I am an AI product builder and Agentic Engineering coder based in Changsha, China.
+I'm an AI product builder based in Changsha, China. I focus on AI agents and generative engine optimization (GEO), and enjoy turning ideas into products and workflows people can try.
 
-- I build AI products, agent workflows, and lightweight prototypes—turning an idea into something people can try.
-- I care about the engineering side of AI products: tools, workflows, integrations, and the craft of shipping quickly.
-- As an AI community founder, I also bring developers, students, and curious users together to learn and build in public.
-- I follow AI × Web3 as an enthusiast and keep it as an adjacent area of exploration.
+- **Agent Memory:** Recently, I've been involved in Agent Memory research at an AI startup, exploring memory products, evaluation, and developer needs.
+- **Community:** I'm the founder of IGNAI, a Changsha-based AI community connecting developers, students, and curious builders to learn and create together.
+- **Enterprise collaboration:** I'm open to enterprise consulting and collaboration around AI applications, agents, and GEO.
+- **Open source:** I enjoy learning in public and collaborating with the open-source community.
+- **Beyond AI:** I'm a Mac enthusiast and productivity software lover, always looking for better tools and workflows.
 
 ### Currently exploring
 
-`AI agents` · `agentic engineering` · `AI product building` · `rapid prototyping` · `open-source collaboration`
+`AI agents` · `agent memory` · `GEO` · `AI product building` · `open-source collaboration` · `productivity tools`
 
 ### Say hello
 
-If you are building an AI product, experimenting with agents, or growing a developer community, feel free to reach out.
+If you're building with AI, interested in Agent Memory or GEO, or looking to collaborate with the community, feel free to reach out.
